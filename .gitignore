@@ -2,4 +2,4 @@
 results/
 !a.dat
 /results
-!/data
+!results/data
